@@ -382,7 +382,7 @@ int main()
    
    cout<<"\n\nMinimum Sum of the brunch: "<<b1.MinimumSum();
    
-   // closing these 4 output becasue it will rotate the tree since I have not counted the balancing factors 
+   // closing these 4 output becasue it will rotate the tree, but until now I have not counted the balancing factors 
    /* 
    
    cout<<"\n\nRR rotation: "<<endl;
